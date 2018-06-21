@@ -11,6 +11,5 @@ class Dog
   end 
   def breed 
     @breed 
-  end 
-  binding.pry
+  end
 end 
